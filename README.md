@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikeHunt587
-- 👀 I’m interested in Making a Website
-- 🌱 I’m currently learning Lisp
-- 💞️ I’m looking to collaborate on Website Design
+- 👀 I’m interested in Making Mr. Klaiber Happy
+- 🌱 I’m currently learning The Craft Of Klaiber
+- 💞️ I’m looking to collaborate on Making the Klu Klux Klaiber
 - 📫 How to reach me 800-888-8888 Dont wait call 8
 
 <!---
